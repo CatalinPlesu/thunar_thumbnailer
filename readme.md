@@ -9,6 +9,6 @@ run:
 ./uninstall.sh
 
 ## use
-place a "folder.png" image in any folder
+place a ".folder.png" image in any folder
 
 [source](https://forums.linuxmint.com/viewtopic.php?t=323757)
