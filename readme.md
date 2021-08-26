@@ -4,11 +4,11 @@
 run:
 ./install.sh
 
-##uninstall
+## uninstall
 run:
 ./uninstall.sh
 
-##use
+## use
 place a "folder.png" image in any folder
 
 [source](https://forums.linuxmint.com/viewtopic.php?t=323757)
