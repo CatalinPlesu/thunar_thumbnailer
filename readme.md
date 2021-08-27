@@ -12,6 +12,10 @@
 - use custom folder icons:  
 	place a ".folder.png" image in any folder  
 
+- to add a thunar menu (kinda, and depends on sxiv)  
+	./icons.sh  
+	- and cant uninstall this
+
 - uninstall:  
 	 ./uninstall.sh  
 
