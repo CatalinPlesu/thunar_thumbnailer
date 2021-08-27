@@ -1,16 +1,20 @@
 # thunar folder thumbnail
 
-## install
-run:
-./install.sh
+## dependencies
+- thunar ( at least it doesn't work with pcmanfm and dolphin)
+- tumbler  
+- imagemagick  
 
-## uninstall
-run:
-./uninstall.sh
+## usage 
+- install:  
+	./install.sh  
 
-## use
-place a ".folder.png" image in any folder  
-the folder will use that image  
+- use custom folder icons:  
+	place a ".folder.png" image in any folder  
+
+- uninstall:  
+	 ./uninstall.sh  
+
 ![example](example/example.png)
 
 [source](https://forums.linuxmint.com/viewtopic.php?t=323757)
